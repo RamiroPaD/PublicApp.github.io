@@ -289,7 +289,7 @@
                         Instalar
                     </button>
                     <!-- Enlace oculto para la descarga real -->
-                    <a id="download-link" href="apk/PurificApp.apk" download="MediTrack.apk" style="display: none;"></a>
+                    <a id="download-link" href="apk/PurificApp.apk" download="apk/MediTrack.apk" style="display: none;"></a>
                 </div>
 
                 <!-- Carrusel de Screenshots -->
